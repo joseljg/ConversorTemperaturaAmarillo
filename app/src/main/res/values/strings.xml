@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ConversorTemperaturaAmarillo</string>
+    <string name="edt_hint_temperatura">Inserta los grados centigrados</string>
+    <string name="bt_text_convertir">Convertir</string>
+    <string name="txt_hint_kelvin">ºKelvin</string>
+    <string name="txt_hint_farenheit">ºFarenheit</string>
+</resources>
